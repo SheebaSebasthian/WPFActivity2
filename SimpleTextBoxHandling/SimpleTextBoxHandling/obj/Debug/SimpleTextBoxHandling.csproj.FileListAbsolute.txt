@@ -1,0 +1,17 @@
+D:\Sheeba\WPFSamples\Activities\Activity2\SimpleTextBoxHandling\SimpleTextBoxHandling\obj\Debug\SimpleTextBoxHandling.csprojAssemblyReference.cache
+D:\Sheeba\WPFSamples\Activities\Activity2\SimpleTextBoxHandling\SimpleTextBoxHandling\obj\Debug\MainWindow.g.cs
+D:\Sheeba\WPFSamples\Activities\Activity2\SimpleTextBoxHandling\SimpleTextBoxHandling\obj\Debug\NameChange.g.cs
+D:\Sheeba\WPFSamples\Activities\Activity2\SimpleTextBoxHandling\SimpleTextBoxHandling\obj\Debug\App.g.cs
+D:\Sheeba\WPFSamples\Activities\Activity2\SimpleTextBoxHandling\SimpleTextBoxHandling\obj\Debug\SimpleTextBoxHandling_MarkupCompile.cache
+D:\Sheeba\WPFSamples\Activities\Activity2\SimpleTextBoxHandling\SimpleTextBoxHandling\obj\Debug\SimpleTextBoxHandling_MarkupCompile.lref
+D:\Sheeba\WPFSamples\Activities\Activity2\SimpleTextBoxHandling\SimpleTextBoxHandling\bin\Debug\SimpleTextBoxHandling.exe.config
+D:\Sheeba\WPFSamples\Activities\Activity2\SimpleTextBoxHandling\SimpleTextBoxHandling\bin\Debug\SimpleTextBoxHandling.exe
+D:\Sheeba\WPFSamples\Activities\Activity2\SimpleTextBoxHandling\SimpleTextBoxHandling\bin\Debug\SimpleTextBoxHandling.pdb
+D:\Sheeba\WPFSamples\Activities\Activity2\SimpleTextBoxHandling\SimpleTextBoxHandling\obj\Debug\MainWindow.baml
+D:\Sheeba\WPFSamples\Activities\Activity2\SimpleTextBoxHandling\SimpleTextBoxHandling\obj\Debug\NameChange.baml
+D:\Sheeba\WPFSamples\Activities\Activity2\SimpleTextBoxHandling\SimpleTextBoxHandling\obj\Debug\SimpleTextBoxHandling.g.resources
+D:\Sheeba\WPFSamples\Activities\Activity2\SimpleTextBoxHandling\SimpleTextBoxHandling\obj\Debug\SimpleTextBoxHandling.Properties.Resources.resources
+D:\Sheeba\WPFSamples\Activities\Activity2\SimpleTextBoxHandling\SimpleTextBoxHandling\obj\Debug\SimpleTextBoxHandling.csproj.GenerateResource.cache
+D:\Sheeba\WPFSamples\Activities\Activity2\SimpleTextBoxHandling\SimpleTextBoxHandling\obj\Debug\SimpleTextBoxHandling.csproj.CoreCompileInputs.cache
+D:\Sheeba\WPFSamples\Activities\Activity2\SimpleTextBoxHandling\SimpleTextBoxHandling\obj\Debug\SimpleTextBoxHandling.exe
+D:\Sheeba\WPFSamples\Activities\Activity2\SimpleTextBoxHandling\SimpleTextBoxHandling\obj\Debug\SimpleTextBoxHandling.pdb
