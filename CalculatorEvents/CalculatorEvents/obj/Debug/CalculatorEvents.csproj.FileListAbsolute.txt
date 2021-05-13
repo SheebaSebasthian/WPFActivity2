@@ -1,0 +1,17 @@
+D:\Sheeba\WPFSamples\Activities\Activity2\CalculatorEvents\CalculatorEvents\bin\Debug\CalculatorEvents.exe.config
+D:\Sheeba\WPFSamples\Activities\Activity2\CalculatorEvents\CalculatorEvents\bin\Debug\CalculatorEvents.exe
+D:\Sheeba\WPFSamples\Activities\Activity2\CalculatorEvents\CalculatorEvents\bin\Debug\CalculatorEvents.pdb
+D:\Sheeba\WPFSamples\Activities\Activity2\CalculatorEvents\CalculatorEvents\obj\Debug\CalculatorEvents.csprojAssemblyReference.cache
+D:\Sheeba\WPFSamples\Activities\Activity2\CalculatorEvents\CalculatorEvents\obj\Debug\ArithmaticOperations.g.cs
+D:\Sheeba\WPFSamples\Activities\Activity2\CalculatorEvents\CalculatorEvents\obj\Debug\MainWindow.g.cs
+D:\Sheeba\WPFSamples\Activities\Activity2\CalculatorEvents\CalculatorEvents\obj\Debug\App.g.cs
+D:\Sheeba\WPFSamples\Activities\Activity2\CalculatorEvents\CalculatorEvents\obj\Debug\CalculatorEvents_MarkupCompile.cache
+D:\Sheeba\WPFSamples\Activities\Activity2\CalculatorEvents\CalculatorEvents\obj\Debug\CalculatorEvents_MarkupCompile.lref
+D:\Sheeba\WPFSamples\Activities\Activity2\CalculatorEvents\CalculatorEvents\obj\Debug\ArithmaticOperations.baml
+D:\Sheeba\WPFSamples\Activities\Activity2\CalculatorEvents\CalculatorEvents\obj\Debug\MainWindow.baml
+D:\Sheeba\WPFSamples\Activities\Activity2\CalculatorEvents\CalculatorEvents\obj\Debug\CalculatorEvents.g.resources
+D:\Sheeba\WPFSamples\Activities\Activity2\CalculatorEvents\CalculatorEvents\obj\Debug\CalculatorEvents.Properties.Resources.resources
+D:\Sheeba\WPFSamples\Activities\Activity2\CalculatorEvents\CalculatorEvents\obj\Debug\CalculatorEvents.csproj.GenerateResource.cache
+D:\Sheeba\WPFSamples\Activities\Activity2\CalculatorEvents\CalculatorEvents\obj\Debug\CalculatorEvents.csproj.CoreCompileInputs.cache
+D:\Sheeba\WPFSamples\Activities\Activity2\CalculatorEvents\CalculatorEvents\obj\Debug\CalculatorEvents.exe
+D:\Sheeba\WPFSamples\Activities\Activity2\CalculatorEvents\CalculatorEvents\obj\Debug\CalculatorEvents.pdb
